@@ -35,6 +35,30 @@ public class TicTacToe {
         System.out.println("GAME OVER!");
     }
 
+    private static void printTableMapping() {
+
+    }
+
+    private static void printGameTable() {
+
+    }
+
+    private static void makeUserMove() {
+
+    }
+
+    private static void makeComputerMove() {
+
+    }
+
+    private static boolean isUserWin() {
+        return false;
+    }
+
+    private static boolean isComputerWin() {
+        return false;
+    }
+
     private static boolean isDraw() {
         return false;
     }
